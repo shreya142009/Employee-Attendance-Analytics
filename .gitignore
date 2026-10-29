@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# OS specific
+Thumbs.db
+.DS_Store
+
+# Temporary outputs (optional, retain final outputs)
+*.tmp
+*.log
